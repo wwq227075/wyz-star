@@ -1,0 +1,6 @@
+# 抓取规则：允许所有搜索引擎抓取，并指明站点地图位置。
+# 换域名后把 Sitemap 那一行换成新域名即可。
+User-agent: *
+Allow: /
+
+Sitemap: https://wyz-star.app.workbuddy.host/sitemap.xml

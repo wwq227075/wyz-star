@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 站点地图：告诉搜索引擎这个站有哪些页面、哪些图。
+     换域名后把 loc 换成新域名即可（用查找替换，把 wyz-star.app.workbuddy.host 换掉）。 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://wyz-star.app.workbuddy.host/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://wyz-star.app.workbuddy.host/share-cover.jpg</image:loc>
+      <image:title>星际史诗 · 从大地到银河系</image:title>
+      <image:caption>银河系中心的黑洞（人马座 A*）实时渲染画面</image:caption>
+    </image:image>
+  </url>
+</urlset>
